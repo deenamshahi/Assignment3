@@ -6,16 +6,6 @@ We4U is a responsive, user-friendly web platform developed to promote mental hea
 
 Visit the live website here: [We4U Website](https://deenamshahi.github.io/Assignment3/)
 
-## 📌 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## ✨ Features
 
 - 🧠 Home page with mental health focus and intuitive navigation.
@@ -34,3 +24,10 @@ Visit the live website here: [We4U Website](https://deenamshahi.github.io/Assign
 - **JavaScript** – Interactivity and functionality.
 - **Git & GitHub** – Version control and collaboration.
 
+## 🚀 Installation
+
+To run this project locally:
+
+```bash
+git clone https://github.com/deenamshahi/Assignment3.git
+cd Assignment3
